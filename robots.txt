@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://asifiati.github.io/KJY/sitemap_index.txt
+Sitemap: https://asifiati.github.io/MbF/sitemap_index.txt
+Sitemap: https://asifiati.github.io/OMA/sitemap_index.txt
+Sitemap: https://asifiati.github.io/VeX/sitemap_index.txt
